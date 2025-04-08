@@ -1,0 +1,19 @@
+.stats-section {
+    background-color: #f8f9fa;
+  }
+  
+  .stat-number {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #d32f2f;
+    margin-bottom: 0.3rem;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .stat-label {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #555;
+    font-family: 'Roboto', sans-serif;
+  }
+  
